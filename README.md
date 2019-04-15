@@ -9,3 +9,4 @@ Projenin kaynak kodu [bu](https://github.com/hudanurcosar/Door-Lock-with-RFID-Ca
 ## Not
 
 Bu projedeki kodlar Arduino ile yazılmıştır.
+Bu projenin dili Türkçe'dir.
