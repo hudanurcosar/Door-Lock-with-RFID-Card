@@ -13,10 +13,10 @@ Bu projeyi Gömülü Sistemler ve Uygulamaları dersi için tasarladım.
 
 
 ##### Donanım
--Ardunino Uno
--RFID (MFRC522) Kart Okuyucu
--Röle
--Buzzer
--LED (İki ayrı renkte, birer adet)
--Buton (2 adet)
--Direnç (4 adet)
+- Ardunino Uno
+- RFID (MFRC522) Kart Okuyucu
+- Röle
+- Buzzer
+- LED (İki ayrı renkte, birer adet)
+- Buton (2 adet)
+- Direnç (4 adet)
